@@ -1,0 +1,1 @@
+/usr/lib/llvm-15/bin/clang++ -march=native -pipe -Ofast -flto=full CMakeFiles/main.dir/src/main.cpp.o -o main  include/librsa.a 

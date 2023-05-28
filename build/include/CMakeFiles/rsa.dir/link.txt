@@ -1,0 +1,2 @@
+/usr/lib/llvm-15/bin/llvm-ar qc librsa.a CMakeFiles/rsa.dir/rsa.cpp.o
+/usr/lib/llvm-15/bin/llvm-ranlib librsa.a
